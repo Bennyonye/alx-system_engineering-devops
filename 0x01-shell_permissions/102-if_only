@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello
+filename="hello"; current_owner=$(stat -c "%U" "$filename"); target_owner="betty"; user_check="guillaume"; if [ "$current_owner" = "$user_check" ]; then chown "$target_owner" "$filename"; fi
