@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$decoded_message"
+cut -c 1 | paste -s -d ''
