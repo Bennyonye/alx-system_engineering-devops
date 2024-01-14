@@ -36,7 +36,7 @@ Here are the steps to follow:
 ### NOTE :
 The screenshoots of completed level should be inside the dir /root/alx-system_engineering-devops/command_line_for_the_win/
 
+## The Tasks Link
+* <a href="/rltoken/a83_NOBEtXgFr1Yqej0HYA" title="CMD CHALLENGE" target="_blank" previewlistener="true">CMD CHALLENGE</a>
 
-
-<a href="/rltoken/a83_NOBEtXgFr1Yqej0HYA" title="CMD CHALLENGE" target="_blank" previewlistener="true">CMD CHALLENGE</a>
 @BennyOnye
