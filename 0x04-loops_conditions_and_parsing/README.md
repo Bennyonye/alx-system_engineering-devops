@@ -1,4 +1,5 @@
-# 0x04. Loops, conditions and parsing
+ls
+code# 0x04. Loops, conditions and parsing
 #### DevOps Shell Bash Scripting
 
 ## All About Bash projects
