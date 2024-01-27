@@ -1,0 +1,58 @@
+# 0x05. Processes and signals
+##### DevOps Shell Bash Syscall Scripting
+
+
+## About Bash projects
+Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
+
+## Resources
+Read or watch:
+
+1. Linux PID
+2. Linux process
+3. Linux signal
+4. Process management in linux
+
+man or help:
+
+* ps
+* pgrep
+* pkill
+* kill
+* exit
+* trap
+
+## General Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+1. What is a PID
+2. What is a process
+3. How to find a process’ PID
+4. How to kill a process
+5. What is a signal
+6. What are the 2 signals that cannot be ignored
+
+## General Requirements
+
+1. Allowed editors: vi, vim, emacs
+2. All your files will be interpreted on Ubuntu 20.04 LTS
+3. All your files should end with a new line
+4. A README.md file, at the root of the folder of the project, is mandatory
+5. All your Bash script files must be executable
+6. Your Bash script must pass Shellcheck (version 0.7.0 via apt-get) without any error
+7. The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
+8. The second line of all your Bash scripts should be a comment explaining what is the script doing
+
+### More Info
+For those who want to know more and learn about all signals, check out <a href="/rltoken/BOU-KVNMqfKEIBo_VOI26A" title="this article" target="_blank" previewlistener="true">this article</a>
+
+Tasks
+
+
+
+
+## Copyright - Plagiarism
+You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
+You are not allowed to publish any content of this project.
+Any form of plagiarism is strictly forbidden and will result in removal from the program.
