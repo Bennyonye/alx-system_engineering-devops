@@ -2,7 +2,7 @@
 
 ## Incident Summary
 
-On the release date of ALX's System Engineering & DevOps project 0x19, at approximately 06:00 WAT in Nigeria, an outage was detected on an isolated Ubuntu 14.04 container running an Apache web server. The server responded to GET requests with a `500 Internal Server Error` instead of delivering the expected HTML file for a simple Holberton WordPress site.
+On the release date of ALX's System Engineering & DevOps project 0x19, at approximately 09:00 WAT in Nigeria, an outage was detected on an isolated Ubuntu 14.04 container running an Apache web server. The server responded to GET requests with a `500 Internal Server Error` instead of delivering the expected HTML file for a simple Holberton WordPress site.
 
 ## Debugging Process
 
