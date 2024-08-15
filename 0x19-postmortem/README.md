@@ -6,7 +6,7 @@ On the release date of ALX's System Engineering & DevOps project 0x19, at approx
 
 ## Debugging Process
 
-The issue was identified and debugged by Brennan (BDB... yes, that's my initials!). The incident was first noticed around 19:20 PST. Here’s the step-by-step process used to diagnose and resolve the issue:
+The issue was identified and debugged by BennyOnye. The incident was first noticed around 21:02 PST. Here’s the step-by-step process used to diagnose and resolve the issue:
 
 1. **Process Verification:** Used `ps aux` to check running processes. Two `apache2` processes (`root` and `www-data`) were found running correctly.
 
