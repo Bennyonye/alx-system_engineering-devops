@@ -25,7 +25,7 @@ This project involved deploying our AirBnB clone as part of the ALX program. The
 
 ### 6. **Serve Your AirBnB Clone**
    - **File:** [5-app_server-nginx_config](./5-app_server-nginx_config)
-   - **Description:** Configured the full AirBnB app from [AirBnB_clone_v4](https://github.com/aysuarex/AirBnB_clone_v4) to run on Gunicorn and be served through Nginx, including serving static assets from `web_dynamic/static/`.
+   - **Description:** Configured the full AirBnB app from [AirBnB_clone_v4](https://github.com/Bennyonye/AirBnB_clone_v4) to run on Gunicorn and be served through Nginx, including serving static assets from `web_dynamic/static/`.
 
 ### 7. **Deploy It**
    - **File:** [gunicorn.conf](./gunicorn.conf)
