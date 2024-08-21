@@ -6,7 +6,7 @@ This project involved deploying our AirBnB clone as part of the ALX program. The
 
 ### 1. **Set Up Development with Python**
    - **File:** `web_flask/0-hello_route.py`
-   - **Description:** Configured this file from the [AirBnB_clone_v2](https://github.com/aysuarex/AirBnB_clone_v2) project to serve content on the route `/airbnb-onepage/`, running on port `5000`.
+   - **Description:** Configured this file from the [AirBnB_clone_v2](https://github.com/Bennyonye/AirBnB_clone_v2) project to serve content on the route `/airbnb-onepage/`, running on port `5000`.
 
 ### 2. **Set Up Production with Gunicorn**
    - **Description:** Set up a production environment by installing and configuring Gunicorn to serve the same file from task 1.
